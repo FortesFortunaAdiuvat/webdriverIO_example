@@ -1,0 +1,17 @@
+{
+  "name": "wdio-example",
+  "version": "1.0.0",
+  "description": "https://www.youtube.com/watch?v=NJhZbY8UeFw",
+  "main": "index.js",
+  "scripts": {
+    "test": "wdio"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "wdio-mocha-framework": "^0.6.3",
+    "wdio-selenium-standalone-service": "0.0.10",
+    "wdio-spec-reporter": "^0.1.5",
+    "webdriverio": "^4.13.2"
+  }
+}
